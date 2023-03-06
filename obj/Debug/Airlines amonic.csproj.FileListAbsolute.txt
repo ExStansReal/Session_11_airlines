@@ -1,0 +1,26 @@
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic.csproj.AssemblyReference.cache
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic.csproj.SuggestedBindingRedirects.cache
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\AdminPage.g.cs
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\Avtorization.g.cs
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\ChangeRole.g.cs
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\UserPage.g.cs
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\MainWindow.g.cs
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\App.g.cs
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic_MarkupCompile.cache
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic_MarkupCompile.lref
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\AddUser.g.cs
+C:\VSSaves\Airlines amonic\Airlines amonic\bin\Debug\Airlines amonic.exe.config
+C:\VSSaves\Airlines amonic\Airlines amonic\bin\Debug\Airlines amonic.exe
+C:\VSSaves\Airlines amonic\Airlines amonic\bin\Debug\Airlines amonic.pdb
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\AdminPage.baml
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\Avtorization.baml
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\ChangeRole.baml
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\UserPage.baml
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\MainWindow.baml
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Frames\AddUser.baml
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic.g.resources
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines_amonic.Properties.Resources.resources
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic.csproj.GenerateResource.cache
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic.csproj.CoreCompileInputs.cache
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic.exe
+C:\VSSaves\Airlines amonic\Airlines amonic\obj\Debug\Airlines amonic.pdb
